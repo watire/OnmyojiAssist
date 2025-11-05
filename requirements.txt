@@ -1,0 +1,14 @@
+# OnmyojiAssist - Python Dependencies
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# Windows API (Windows-only)
+pywin32>=223
+
+# Image Processing & Computer Vision
+opencv-python>=4.5.0
+numpy>=1.19.0
+
+# Build & Packaging (optional, for development)
+pyinstaller>=5.0
