@@ -1,0 +1,29 @@
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.env/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Logs & runtime files
+*.log
+logs/
+
+# IDE & editor directories
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
