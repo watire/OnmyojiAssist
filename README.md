@@ -127,6 +127,7 @@ A：不支持。本工具依赖 pywin32 与 Windows API，仅能在 Windows 平�
 
 ### 技术文档
 - **代码库概要**：[docs/CODEBASE_SUMMARY.md](docs/CODEBASE_SUMMARY.md)
+- **每日任务开发计划**：[docs/DAILY_TASKS_PLAN.md](docs/DAILY_TASKS_PLAN.md)
 - **待办事项与已知问题**：[TODO.md](TODO.md)
 
 ### 贡献指南
